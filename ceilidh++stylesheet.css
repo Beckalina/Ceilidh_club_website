@@ -65,21 +65,22 @@ p {
   background-image: linear-gradient(#66ccff, #141E30);
 }
 
+
 .image {
-  background-image: url("ceilidh_photo_cropped.jpg");
-  background-size: cover;
-  background-position: center;
-  margin-top: 0px;
+  display: in-line block;
+  margin: auto;
   padding-top: 0px;
   border: none;  
   height: 300px;
 }
 
+
 .logo {
-  display: block;
+  display: in-line block;
   position: relative;
   margin: auto;
-  padding-top: 70px;
+  padding-top: 00px;
+  height: 150px;
 }
 
 
