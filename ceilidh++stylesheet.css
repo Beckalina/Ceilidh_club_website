@@ -15,7 +15,6 @@ body {
 h1 {
   color: AliceBlue;
   margin: 20px;
-  letter-spacing:0.1em;
 }
 
 h2 {
@@ -24,6 +23,11 @@ h2 {
 }
 
 h3 {
+  color: AliceBlue;
+  margin: 20px;
+}
+
+h4 {
   color: AliceBlue;
   margin: 20px;
 }
